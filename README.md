@@ -2,11 +2,12 @@
 
 ### Hi there 👋
 
-- 🔭 Currently building a natural language processing model for sentiment analysis 🤖
+- 🔭 Currently building a product which works with AI generation capabilities 🤖
 - 👀 Passionate about full-stack software development and problem-solving!
 - 💞️ Open to collaborating on any software development project!
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/avdhoot-hapse-644671193/)
 - 😄 Pronouns: He/Him, and I'm excited to connect with fellow developers!
+- 🏆 Do checkout my achievements here on Github 🫣
 
 <!--
 **avdhootHapse/avdhootHapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
